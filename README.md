@@ -1,41 +1,46 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Introdução a Inteligência Articicial;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+    Neste vídeo, você verá uma breve introdução ao fascinante mundo da Inteligência Artificial (IA).
+Todo o conteúdo foi desenvolvido por duas IAs, desde o roteiro até a edição. Este projeto demonstra
+o poder e as capacidades das IAs modernas, destacando como elas podem ser utilizadas para criar conteúdo
+de alta qualidade de forma eficiente e inovadora.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Gamma - criação de roadmap
+    link - https://app.heygen.com/create-v3/4a5b06e9af36414c89e333e2cf154549?tab=script&vt=p
+HeyGen - criação e edção de video
+    link - https://gamma.app/
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Primeiro eu pedir para a IA gamma criar um roadmap, com roadmap pronto exportei em PDF.
+Em seguida fui para IA HeyGen onde criei o video. priemiro fiz upload do roadmap criado
+anteriormente em PDF, em seguida adcionei o texto a ser tranformado em audio e fiz a escolha
+do avatar, depois de tudo preparado apenas organizei as imagens diacordo com o audio e editei
+a forma como queria que o avatar ficasse posicionado no video e cliequi em gerar video.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Segue o link do Video:
+
+link - https://app.heygen.com/share/4641157b936243f68ace43442a44972e
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Criar algo usando Inteligência Artificial foi um verdadeiro desafio. No começo, fiquei impressionado
+com o potencial e a complexidade dessas tecnologias. No entanto, à medida que mergulhei nesse projeto,
+percebi que há muitos detalhes a considerar para garantir que o resultado final seja realmente eficaz
+e de alta qualidade.
+
+Foi necessário compreender como as IAs processam informações, adaptam-se às instruções e como combiná-las
+para alcançar um resultado coeso. Além disso, o processo de integração entre diferentes ferramentas de IA
+exigiu muita atenção para que tudo funcionasse em harmonia.
+
+Mesmo com esses desafios, foi uma experiência extremamente gratificante. Ver o conteúdo tomar forma e o vídeo
+ser criado praticamente de maneira autônoma mostrou como a IA pode ser poderosa quando usada corretamente.
+Mais do que nunca, ficou claro para mim que, embora a IA possa realizar tarefas incríveis, o toque humano na
+direção e revisão do processo ainda é crucial.
 ```
 
 ### Exemplos e Insigths
